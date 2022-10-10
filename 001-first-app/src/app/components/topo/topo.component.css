@@ -1,0 +1,9 @@
+/* .navbar{
+    background-color: #adb5bd;
+    
+} */
+
+/*-- Atacando o H1 da página --*/
+.navbar-brand {
+    color: white;
+}

@@ -1,0 +1,41 @@
+<div class="container">
+    <div class="jumbotron bg-secondary text-white p-4 rounded my-4">
+        <div class="row">
+
+            <div class="col-sm-6">
+                <app-progresso [progresso]="progresso"></app-progresso>
+            </div>
+
+            <div class="col-sm-6">
+                <div class="d-flex justify-content-end">
+                    <app-tentativa [tentativas]="tentativas"></app-tentativa>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <h6>{{ traduza }}</h6>
+                <p> {{ rodadaFrase.fraseEng }} </p>
+
+                <div class="form-group">
+                    <textarea 
+                    class="form-control" 
+                    rows="3" 
+                    (input)="atualizarResposta($event)"
+                    [value]="resposta">
+                    </textarea>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-end">
+                    <button class="btn btn-primary p-2 rounded my-3" (click)="verificarResposta()">Teste Button</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

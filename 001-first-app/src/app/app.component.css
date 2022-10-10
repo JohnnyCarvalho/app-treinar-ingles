@@ -1,0 +1,17 @@
+.derrota {
+    margin-top: 50px;
+    color: red;
+}
+
+.vitoria {
+    margin-top: 50px;
+    color: green;
+}
+
+.btn-jogar-novamente {
+    margin-top: 100px;
+    margin-left: 50%;
+    
+    /* margin-top: 20px;
+    padding: 30px 30px; */
+}

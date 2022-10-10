@@ -1,0 +1,5 @@
+<!-- <img [src]="emptyHeart" alt="">
+<img [src]="emptyHeart" alt="">
+<img [src]="fullHeart" alt=""> -->
+
+<img *ngFor="let coracao of coracoes" [src]="coracao.existeCoracao()">
