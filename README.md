@@ -22,6 +22,7 @@ Nesse app foram utilizadas as seguintes tecnologia:
 Para iniciar esse app é necessário a utilização das seguintes ferramentas:
 
 ```npm install```
+
 ```npm install bootstrap```
 
 
