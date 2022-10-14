@@ -12,7 +12,13 @@
 <hr>
 
 Esta aplicação é uma introdução ao framework Angular, com ela temos uma noção básica de uso
-de componentes, ciclo de vida de componentes . . .
+de componentes, ciclo de vida de componentes etc.
+Nesse app foram utilizadas as seguintes tecnologia:
+
+- Angular com TypeScript
+- Bootstrap
+- VsCode
+
 Para iniciar esse app é necessário a utilização das seguintes ferramentas:
 
 ```npm install```
