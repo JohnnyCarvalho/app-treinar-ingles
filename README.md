@@ -9,6 +9,8 @@
   <img align="center" alt="Johnny-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+<hr>
+
 Esta aplicação é uma introdução ao framework Angular, com ela temos uma noção básica de uso
 de componentes, ciclo de vida de componentes . . .
 Para iniciar esse app é necessário a utilização das seguintes ferramentas:
