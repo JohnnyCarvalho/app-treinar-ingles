@@ -15,9 +15,9 @@ Esta aplicação é uma introdução ao framework Angular, com ela temos uma no�
 de componentes, ciclo de vida de componentes . . .
 Para iniciar esse app é necessário a utilização das seguintes ferramentas:
 
-```
-npm install bootstrap
-```
+```npm install```
+```npm install bootstrap```
+
 
 Dentro do arquivo ```angular.json``` será necessário fazer a seguinte mudança:
 
